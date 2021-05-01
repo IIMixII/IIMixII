@@ -1,3 +1,6 @@
+# Software Engineer - Backend prgrammer
+Hello world! I'm Paul Antonio Almasi, experienced in Java and Python language with knowlage of SQL and OracleSQL.
+
 - 👋 Hi, I’m @Ianm22
 - 👀 I’m interested in Linux and backend programming
 - 🌱 I’m currently learning backend programming languages (Actually Python)
