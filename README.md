@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux and backend programming
 - 🌱 I’m currently learning backend programming languages (Actually Python)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: paul.antonio.almasi@gmail.com
+- 📫 How to reach me: infinitomix@gmail.com
 
 <!---
 Ianm22/Ianm22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
