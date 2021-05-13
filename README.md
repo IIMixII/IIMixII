@@ -1,11 +1,11 @@
 # Software Engineer - Backend prgrammer
-Hello world! I'm Paul Antonio Almasi, experienced in Java and Python language with knowlage of SQL and OracleSQL.
+Hello world! I'm Ianm22, experienced in Java and Python language with knowlage of SQL and OracleSQL.
 
 # Other things 
 
 - 👀 I’m interested in backend programming and Linux
 - 🌱 I’m currently learning backend programming languages (Actually Python)
-- 📫 How to reach me: paul.antonio.almasi@gmail.com
+- 📫 How to reach me: infinitomix@gmail.com
 
 <!---
 Ianm22/Ianm22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
