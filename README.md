@@ -7,5 +7,5 @@ As all programmers, I consider myself a highly motivated individual that can thr
 
 
 # OMore about me...
-- 🌍 My portfolio: https://iimixii.github.io/myportfolio/
+- 🌍 My portfolio: https://kakxem.github.io/myportfolio/
 - 📫 How to reach me: https://forms.gle/kCvLMee3GYujTYTh8
