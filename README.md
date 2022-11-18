@@ -6,6 +6,7 @@ As all programmers, I consider myself a highly motivated individual that can thr
 - Finally, I have also used the following technologies: Git (Of course), Linux, Docker and docker-compose, Kubernetes and MongoDB.
 
 
-# OMore about me...
+# Some links...
 - 🌍 My portfolio: https://kakxem.github.io/myportfolio/
-- 📫 How to reach me: https://forms.gle/kCvLMee3GYujTYTh8
+- 📫 Send me a missage: https://forms.gle/kCvLMee3GYujTYTh8
+- 🔗 Contact me from Linkedin: https://www.linkedin.com/in/paul-antonio-almasi/
