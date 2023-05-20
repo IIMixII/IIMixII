@@ -1,12 +1,16 @@
 # Software Engineer - Fullstack programmer
-As all programmers, I consider myself a highly motivated individual that can thrive in new situations and easily communicate my thoughts in a logical way. I am interested in learning and will continue to develop my skills in computer science.
+As an experienced developer, I've sharpened my skills in a host of programming languages, including JavaScript, TypeScript and Python, while also immersing myself in the nuances of Rust.
 
-- Experienced in many languages as JavaScript, Typescript, Python, Java, SQL and currently learning Rust.
-- I worked with frameworks as React(JS & TS), NestJS with Graphql and REST API (TS), NextJS (JS & TS), GTK (Python) and many more to come.
-- Finally, I have also used the following technologies: Git (Of course), Linux, Docker and docker-compose, Kubernetes and MongoDB.
+I have effectively applied JavaScript and TypeScript in industry-leading frameworks like React and NextJS, and further extended my TypeScript competence with NestJS and Fastify, leveraging both GraphQL and REST API.
+
+My technical acumen spans various tools such as Git, Linux, Docker, Docker Compose, and Kubernetes, equipping me to easily navigate and control complex technical environments.
+
+Furthermore, I am adept at handling SQL and MongoDB databases, demonstrating my versatility in interacting with diverse database management systems.
+
+I am a highly adaptable programmer, with a strong motivational drive and practical communication skills. My commitment to continuous learning propels me to constantly broaden my technical skill set in the dynamic landscape of computer science.
 
 
 # Some links...
 - 🌍 My portfolio: https://kakxem.github.io/myportfolio/
-- 📫 Send me a missage: https://forms.gle/kCvLMee3GYujTYTh8
+- 📫 Send me a message: https://forms.gle/kCvLMee3GYujTYTh8
 - 🔗 Contact me from Linkedin: https://www.linkedin.com/in/paul-antonio-almasi/
