@@ -11,6 +11,6 @@ I am a highly adaptable programmer, with a strong motivational drive and practic
 
 
 # Some links...
-- 🌍 My portfolio: kakxem.dev
-- 📫 Send me a message: https://forms.gle/kCvLMee3GYujTYTh8
-- 🔗 Contact me from Linkedin: linkedin.kakxem.dev/ (or "linkedin.com/in/paul-antonio-almasi/")
+- 🌍 My portfolio: [kakxem.dev](https://kakxem.dev)
+- 📫 Send me a message: [Send message](https://forms.gle/kCvLMee3GYujTYTh8)
+- 🔗 Contact me from Linkedin: [Linkedin](https://linkedin.kakxem.dev)
